@@ -1,0 +1,2 @@
+# day49_spring_04
+spring整合hibernate和struts2
